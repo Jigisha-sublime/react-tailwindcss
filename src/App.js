@@ -6,7 +6,7 @@ function App() {
       <div className="ml-6 pt-1">
         <h1 className="text-2xl text-blue-700 leading-tight">
           Tailwind and Create React App
-      </h1>
+        </h1>
         <p className="text-base text-gray-700 leading-normal">
           Building apps together
       </p>
